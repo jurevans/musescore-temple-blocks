@@ -1,4 +1,6 @@
-# MuseScore 4 - Temple Blocks Kit Temple Blocks kit for 5 pitches.
+# MuseScore 4 - Temple Blocks Kit
+
+Temple blocks kit for 5 pitches, created in MuseScore 4.
 
 ## Installation
 
