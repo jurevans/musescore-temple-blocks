@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.20">
+  <Drum pitch="58">
+    <head>normal</head>
+    <line>8</line>
+    <voice>0</voice>
+    <name>Temple Block 1</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    </Drum>
+  <Drum pitch="59">
+    <head>normal</head>
+    <line>6</line>
+    <voice>0</voice>
+    <name>Temple Block 2</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    </Drum>
+  <Drum pitch="60">
+    <head>normal</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Temple Block 3</name>
+    <stem>1</stem>
+    <shortcut>C</shortcut>
+    </Drum>
+  <Drum pitch="61">
+    <head>normal</head>
+    <line>2</line>
+    <voice>0</voice>
+    <name>Temple Block 4</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    </Drum>
+  <Drum pitch="62">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Temple Block 5</name>
+    <stem>1</stem>
+    <shortcut>E</shortcut>
+    </Drum>
+  </museScore>
